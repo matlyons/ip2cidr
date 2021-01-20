@@ -1,4 +1,4 @@
-# ip2cidr
+# IP 2 CIDR
 PHP tool to convert IP ranges to CIDR
 
 Can be run on any webserver with PHP.
